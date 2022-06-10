@@ -12,7 +12,7 @@ The project is created with:
 * Future
 
 ## Launch
-### SMILE molecules processing
+### SMILES molecules processing
 For the processing of SMILES molecules, we have developed modules to check canonization, aromatization and separation of reagents and reactants using the RDKit tool.
 
 Before running the codes it is necessary to download the RDKit package:
