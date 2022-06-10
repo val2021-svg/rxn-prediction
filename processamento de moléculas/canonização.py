@@ -11,4 +11,4 @@ def canonizacao(smiles):
       data.append(cans)
     except:
       print("Deu erro ao canonizar", smis)
-  print(data)
+  return data
